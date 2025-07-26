@@ -41,12 +41,11 @@
 ---
 
 ## 🧪 How to Use
+### Clone the repository
 ```
-# Clone the repository
-git clone https://github.com/CodderPrince/DSA_2-2.git
-
-# Open and run each program using any C/C++ IDE (CodeBlocks, VS Code, etc.)
+git clone --branch 30th-July-Submission-Code https://github.com/CodderPrince/DSA_2-2.git
 ```
+### Open and run each program using any C/C++ IDE (CodeBlocks, VS Code, etc.)
 ---
 
 ## 🛠️ Tools Used
